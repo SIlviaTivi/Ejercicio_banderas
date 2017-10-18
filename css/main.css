@@ -1,0 +1,69 @@
+.parte1{
+    display: block;
+}
+.laboratoria1 {
+ background-color: orange;
+ height: 100px
+}
+.es1 {
+ background-color: grey;
+ height: 100px
+}
+.transformacion1 {
+ background-color: orange;
+ height: 100px
+}
+
+
+
+.parte2{
+  display: block;
+  height: 100px;
+ width: 200px;
+}
+.laboratoria2 {
+ background-color: orange;
+
+
+}
+.es2 {
+ background-color: grey;
+
+}
+.transformacion2{
+ background-color: orange;
+
+}
+
+
+.parte3{
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  margin: 10px;
+}
+.laboratoria3 {
+ background-color: orange;
+}
+.es3 {
+ background-color: grey;
+}
+.transformacion3{
+ background-color: orange;
+}
+
+
+.parte4{
+  display: inline-block;
+  margin: 10px;
+
+}
+.laboratoria4 {
+ background-color: orange;
+}
+.es4 {
+ background-color: grey;
+}
+.transformacion4{
+ background-color: orange;
+}
